@@ -7,6 +7,8 @@ download：https://www.insdep.com<br>
 help：https://bbs.insdep.com<br> 
 github china：http://git.oschina.net/weavors/JQuery-EasyUI-1.5.x-Of-Insdep-Theme
 <br> 
+<br>
+<br> 
 **关于** <br> 
 Insdep theme是基于jQuery EasyUI 1.5.x 的一款免费的美化主题包，拥有百度编辑器、cropper、Highcharts、justgage、plupload等各类适应本主题的第三方插件美化补丁。并且各类常用Jquery插件正在美化中。后期会提供更多的主题、组件及第三方插件美化样式。<br> 
 <br> 

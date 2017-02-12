@@ -1,11 +1,19 @@
 #jQuery EasyUI 1.5.x of insdep theme<br> 
 <br> 
-**关于** <br> 
-Insdep theme是基于EasyUI 1.5.x 的一款免费的美化主题包，拥有百度编辑器、cropper、Highcharts、justgage、plupload等各类适应本主题的第三方插件美化补丁。并且各类常用Jquery插件正在美化中。后期会提供更多的主题、组件及第三方插件美化样式。<br> 
+Insdep theme is based on jQuery EasyUI 1.5.x a free landscaping theme package,He has a variety of third-party support JQUERY landscaping plug-ins.<br> 
 <br> 
-演示地址：www.insdep.com/example/<br> 
-下载地址：www.insdep.com<br> 
-问答地址：bbs.insdep.com<br> 
+example：https://www.insdep.com/example/<br> 
+download：https://www.insdep.com<br> 
+help：https://bbs.insdep.com<br> 
+github china：http://git.oschina.net/weavors/JQuery-EasyUI-1.5.x-Of-Insdep-Theme
+<br> 
+**关于** <br> 
+Insdep theme是基于jQuery EasyUI 1.5.x 的一款免费的美化主题包，拥有百度编辑器、cropper、Highcharts、justgage、plupload等各类适应本主题的第三方插件美化补丁。并且各类常用Jquery插件正在美化中。后期会提供更多的主题、组件及第三方插件美化样式。<br> 
+<br> 
+演示地址：https://www.insdep.com/example/<br> 
+下载地址：https://www.insdep.com<br> 
+问答地址：https://bbs.insdep.com<br> 
+国内项目地址：http://git.oschina.net/weavors/JQuery-EasyUI-1.5.x-Of-Insdep-Theme
 <br> 
 QQ交流群：184075694 （第一时间发布体验包）<br> 
 <br> 
